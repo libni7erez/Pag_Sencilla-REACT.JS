@@ -1,0 +1,266 @@
+.App {
+  text-align: center;
+}
+
+.root{
+  background-color: hsl(108, 12%, 92%);
+  width:1348px;
+}
+
+.logo{
+  height: 50vmin;
+  margin-left: 50px;
+  margin-top: 70px;
+  margin-right: 90px;
+}
+
+.logo1{
+  height: 30vmin;
+  margin-left: 50px;
+  margin-right: 90px;
+  margin-top: 5px;
+}
+
+.Bienvenidos{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  text-align: center;
+  display: flex;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 55px;
+  margin-top: 70px;
+}
+
+.App-header {
+  margin-top: 150px;
+  min-height: 35vh;
+  font-size: calc(100px + 3vmin);
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.bloque{
+    text-align: center;
+    padding: 50px  200px 173px  120px ;
+
+
+}
+
+.izquierda{
+  float: left;
+  padding: 39px 0px  0px 20px;
+}
+
+.center{
+  display: inline-block;
+}
+
+.text_link{
+  text-decoration:none;
+}
+
+.centro{
+  
+  background-color: greenyellow;
+  height: 370px;
+  width: 700px;
+  border-radius: 45px;
+}
+
+ .h1s{
+  display: flex;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 80px;
+  padding: 60px 100px 0px;
+}
+
+.text_info{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  padding: 0px 170px 0px;
+}
+.izquierda img{
+  width: 260px;
+  height: 410px;
+}
+
+.contained{
+    padding: 80px 30px 0px;
+ 
+}
+
+.App-link {
+  color: #4d3734;
+}
+
+.triangulo {
+  width: 0;
+     height: 0;
+     border-right: 50px solid transparent;
+     border-top: 50px solid transparent;
+     border-left: 50px solid #f0ad4e;
+     border-bottom: 50px solid #f0ad4e;
+     padding: 50px;
+}
+
+
+.circulo {
+  width: 105px;
+  height: 105px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #3c06ee;
+  padding: 5px;
+  float: right;
+
+}
+.circulo1 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #f14806;
+  padding: 5px;
+  float: right;
+
+}
+.circulo2 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #d9ff04;
+  padding: 5px;
+  float: right;
+}
+
+
+.circulo3 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #04f1e6;
+  padding: 5px;
+  float: right;
+}
+.circulo4 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #696969;
+  padding: 5px;
+  float: right;
+}
+.circulo5 {
+  width: 107px;
+  height: 107px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #7CFC00;
+  padding: 5px;
+  float: right;
+}
+.circulo6 {
+  width: 106px;
+  height: 106px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #FF4500;
+  padding: 5px;
+  float: right;
+}
+.circulo7 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #2fe40b;
+  padding: 5px;
+  float: right;
+}
+.circulo8 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #ff048e;
+  padding: 5px;
+  float: right;
+}
+.circulo9 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #4f04ff;
+  padding: 5px;
+  float: right;
+}
+.circulo10 {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #800000;
+  padding: 5px;
+  float: right;
+}
+
+.circulo11 {
+  width: 110px;
+  height: 110px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #E9967A;
+  padding: 5px;
+  float: right;
+}
+
+.text_Link{
+  text-decoration: none;
+  color: black;
+}
+
+
+.contenido_home{
+  padding: 60px 265px 0px;
+}
+
+.primer1{
+  width: 100px;
+  right: 170px;
+}
+.primer{
+  width: 170px;
+  right: 240px;
+}
+
+.fotos1{
+  float:left;
+}
+.fotos2{
+  float:left;
+}
+
+.listafotos{
+ 
+    width: '100%';
+  
+}
